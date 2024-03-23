@@ -6,5 +6,7 @@ const InverterString = (s) => {
     return output.join("")
 }
 
+//Inserir a palavra aqui
 let palavra = "batata"
+
 console.log(`String:${palavra}, saída: ${InverterString(palavra)}`)
